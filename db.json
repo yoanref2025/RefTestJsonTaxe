@@ -3,7 +3,7 @@
     {
       "uid": "3dc9d438-0efa-4b47-b5d0-e6d96a6bcb80",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-      "nom": "TVA (Taux)",
+      "nom": "TVA",
 	  "enum_type" : 0,
 	  "taux":20.00,
 	  "montant": 0
@@ -11,7 +11,7 @@
 	 {
       "uid": "e9258971-fe12-4d98-af30-de989dfbfc1f",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-      "nom": "TVA (Montant)",
+      "nom": "Taxe Fixe",
 	  "enum_type" : 1,
 	  "taux":0,
 	  "montant": 5.5
