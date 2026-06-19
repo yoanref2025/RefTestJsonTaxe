@@ -3,26 +3,34 @@
     {
       "uid": "3dc9d438-0efa-4b47-b5d0-e6d96a6bcb80",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-      "nom": "TVA",
-	  "taux":20.00
+      "nom": "TVA (Taux)",
+	  "type" : 0,
+	  "taux":20.00,
+	  "montant": 0
     },
 	 {
       "uid": "e9258971-fe12-4d98-af30-de989dfbfc1f",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-      "nom": "TVA",
-	  "taux":5.5
+      "nom": "TVA (Montant)",
+	  "type" : 1,
+	  "taux":0,
+	  "montant": 5.5,
     },
 	 {
       "uid": "3db8994e-b23e-4732-82bd-a0cbc8107b2a",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "nom": "TVA",
-	  "taux":10.00
+	  "type" : 0,
+	  "taux":10.00,
+	  "montant":0
     },
 	 {
       "uid": "7cc40941-c7bf-49e4-95ab-e5de20e4dbe5",
       "uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
       "nom": "TVA",
-	  "taux":10.00
+	  "type" : 0,
+	  "taux":10.00,
+	  "montant":0
     }
   ]
 }
