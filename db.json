@@ -14,7 +14,7 @@
       "nom": "TVA (Montant)",
 	  "type" : 1,
 	  "taux":0,
-	  "montant": 5.5,
+	  "montant": 5.5
     },
 	 {
       "uid": "3db8994e-b23e-4732-82bd-a0cbc8107b2a",
